@@ -102,8 +102,6 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 
 Step 1: Clone Repository
 
-git clone https://github.com/your-username/project-management-system.git
-
 Step 2: Open in Eclipse / IntelliJ
 
 Step 3: Setup Database
